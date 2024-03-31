@@ -1,0 +1,2 @@
+.git  # So that we don't push the .git folder
+.idea  # For pycharm environments
